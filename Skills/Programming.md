@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm u
+  - Programming paradigm h
+  - Programming language u
   - Contract
   - Module
-  - Library
-  - Package
+  - Library h
+  - Package h
   - Component
-  - Framework
-  - Platform
+  - Framework h
+  - Platform h
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
@@ -32,45 +32,45 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value h
-  - Identifier h
-  - Variable h
-  - Constant h
-  - Scalar h
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function h
-  - Procedure
-  - Method
-  - Class
+  - Function u
+  - Procedure u
+  - Method k
+  - Class k
   - Prototype
   - Event
-  - Type h
+  - Type u
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Lexical scope k
+  - Code block k
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
-  - Interface
-  - Namespaces
+  - Interface h
+  - Namespaces h
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case k
+  - Trailing commas u
+  - Return early k
+  - Fail-fast k
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types u
+  - Reference types u
+  - Type systems k
+  - Strong typing k
+  - Weak typing k
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -81,21 +81,21 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature h
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback u
   - Listener
-  - Composition
+  - Composition k
   - Pipe
   - Memoize
   - Wrapper
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table k
   - Linked list
   - Doubly list
   - Unrolled list
@@ -124,10 +124,10 @@
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state k
+  - Immutable state h
   - Serialization
-  - String parsing
+  - String parsing k
   - JSON
   - JSON5
   - YAML
@@ -157,21 +157,21 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review u
   - Exception
   - Unittesting
-  - git
-  - Github h
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers h
   - Hard code
   - Soft code
   - Cryptic code
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
+  - Linux u
   - Unix
   - BSD
   - MacOS h
-  - Windows h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
