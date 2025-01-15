@@ -32,21 +32,21 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value h
+  - Identifier h
+  - Variable h
+  - Constant h
+  - Scalar h
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
   - Method
   - Class
   - Prototype
   - Event
-  - Type
+  - Type h
   - Flag
   - Lexical scope
   - Code block
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows h
   - Real-time OS
   - Embedded OS
 - Standards
